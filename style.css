@@ -2,3 +2,18 @@
     text-align: left;
     border:solid 0.5px #267068;
 }
+
+header{
+   height: 100px;
+    background-color: black;
+    align-content: center;
+
+}
+
+.a1{
+    text-decoration: none;
+    
+}
+.a1:visited{
+    color: white;
+}
