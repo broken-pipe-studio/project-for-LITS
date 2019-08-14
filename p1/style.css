@@ -1,0 +1,43 @@
+.t11{
+    border: solid 1px #FF2B2B;
+}
+
+
+
+.t1{
+    text-align: left;
+    width: 50%;
+}
+.pause1{
+    border: dashed 1px black;
+}
+
+.t2{
+    text-align: right;
+    margin-left:90%;
+    display: inline-block;
+
+}
+
+#ourgames{
+    display:inline-block ;
+    margin-left:50%;
+}
+
+body{
+    margin: 0%;
+}
+
+header{
+   height: 40px;
+    background-color: black;
+    vertical-align: middle;
+}
+.hh1{
+vertical-align: ;
+}
+
+.a1{
+    text-decoration: none;
+    color: white;
+}
